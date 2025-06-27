@@ -108,9 +108,3 @@ Script created by \Amrouchk.
 If you use or modify this script, feel free to credit or extend it.
 
 ---
-
-```
-
----
-
-```
