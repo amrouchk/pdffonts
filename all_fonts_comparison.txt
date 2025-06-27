@@ -1,0 +1,38 @@
+Font Size Report for All PDFs (First Page Only)
+============================================================
+
+File: 6G Internet of Things A Comprehensive Survey.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: A Survey on the Convergence of Edge Computing and AI for UAVs Opportunities and Challenges.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: Federated Learning With Non-IID Data A Survey.pdf
+  - Main text font size: 8.97 pt (Footnote or Caption (≤ 9 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: Fine Time Measurement for the Internet of Things A Practical Approach Using ESP32.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: Integrated Sensing and Communication Signals Toward 5G-A and 6G A Survey.pdf
+  - Main text font size: 7.97 pt (Footnote or Caption (≤ 9 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: Integrated Sensing and Communications Recent Advances and Ten Open Challenges.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: Interference Management for Integrated Sensing and Communication Systems A Survey.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: State-of-the-Art and Future Research Challenges in UAV Swarms.pdf
+  - Main text font size: 9.96 pt (Small Text (9–10 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
+
+File: ULMC-BSF Underwater Laser Misalignment Channel Modeling Based on Beam Spread Function.pdf
+  - Main text font size: 8.97 pt (Footnote or Caption (≤ 9 pt))
+  - Title font size:     28.5 pt (Title (≈ 28–36 pt))
