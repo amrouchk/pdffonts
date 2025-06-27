@@ -113,5 +113,4 @@ If you use or modify this script, feel free to credit or extend it.
 
 ---
 
-You can rename this file as `README.md` and place it next to your script. It will be automatically rendered beautifully on GitHub or any Markdown viewer. Let me know if you want to turn it into a GUI or web app version next!
 ```
